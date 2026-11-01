@@ -1,3 +1,7 @@
+> **🚚 AutoCommand II has moved back.** This repository is retired and kept for history only.
+> All commits, tags and releases now live in the original repo: **[dparksports/autocommand-windows](https://github.com/dparksports/autocommand-windows)**.
+> **Download the latest build from the [new Releases page](https://github.com/dparksports/autocommand-windows/releases/latest)** — releases on this repo stopped at v2026.10.29.2.
+
 # AutoCommand — see what your Windows PC is really doing
 
 ![AutoCommand](Assets/corp_banner.png?v=light1)
